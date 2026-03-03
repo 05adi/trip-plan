@@ -38,7 +38,7 @@ This project demonstrates proficiency in the following React concepts:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/trip-plan.git](https://github.com/your-username/trip-plan.git)
+    git clone [https://github.com/05adi/trip-plan.git](https://github.com/05adi/trip-plan.git)
     ```
 
 2.  **Navigate to the project directory:**
